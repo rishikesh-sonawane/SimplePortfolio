@@ -199,7 +199,10 @@ nav {
 
 .section {
     padding-bottom: 50px;
-    padding-left: 66px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
 }
 
 .box-in {
