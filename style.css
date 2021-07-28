@@ -148,6 +148,7 @@ nav {
     width: -moz-available;
     width: inherit;
     width: 398px;
+    border-radius: 50%;
 }
 
 .my-txt {
